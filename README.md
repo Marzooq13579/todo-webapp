@@ -1,2 +1,2 @@
 # todo-webapp
-Workshop project for the students
+A simple Js project to teach my college students, how the development is made.
